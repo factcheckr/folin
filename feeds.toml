@@ -1,8 +1,0 @@
-[folin]
-title = "폴인"
-url = "https://www.folin.co/story"
-entrySelector = "ul.component-grid4.story-list-contain > li"
-titleSelector = "h3.item-title.line-clamp"
-linkSelector = "a"
-contentSelector = "ul.category-type"
-waitForSelector = "ul.component-grid4.story-list-contain > li"
